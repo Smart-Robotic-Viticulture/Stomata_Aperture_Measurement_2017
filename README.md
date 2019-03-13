@@ -35,6 +35,11 @@ getSkeletanizedAperture.m
 # Data preparation
 Details on data preparation will be discussed soon.
 
+# Acknowledgements
+We would like to thank Wine Australia for funding the research, and South Australia Research and Development Institute (SARDI) and Australian Wine Research Institute (AWRI) for leading this research. Our acknowledgements also go to Mickey Wang for his assistance in collecting and capturing data from the field. If you use this code to generate any results, please cite the paper below.
+
+https://plantmethods.biomedcentral.com/articles/10.1186/s13007-017-0244-9
+
 # Disclaimer
 
 This algorithm was developed for the following dataset:
