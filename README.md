@@ -9,7 +9,7 @@ This work is published in the Journal of Plant Methods. The paper can be accesse
 The corresponding dataset can be downloaded from:
 http://www.robotics.unsw.edu.au/srv/dataset/jayakody2017plantmethods.html
 
-Tested on Matlab 2016b and higher.
+Tested on Matlab 2016b and higher versions.
 
 # File Description
 
@@ -22,6 +22,23 @@ Tested on Matlab 2016b and higher.
 
 - Pre-trained Cascade Object Detector to test the code: stomateDetector_v0.xml (set training=false)
 
-More information on how to use code will be published soon.
+# Parameter tuning
+
+Several parameters need to be tuned to achieve best possible result for a given dataset.
+
+VWS_StomataDetection_COD_Skeletanized.m
+  - areaMax, areaMin :
+  - 
+getSkeletanizedAperture.m
+
+
+# Data preparation
+Details on data preparation will be discussed soon.
+
+# Disclaimer
+
+This algorithm was developed for the following dataset:
+http://www.robotics.unsw.edu.au/srv/dataset/jayakody2017plantmethods.html
+The performance may vary for new datasets depending on the quality of the data.
 
 
