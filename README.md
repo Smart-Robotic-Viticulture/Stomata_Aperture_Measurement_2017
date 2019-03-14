@@ -20,7 +20,8 @@ Tested on Matlab 2016b and higher versions.
   3. getStomataOpening.m - applies a segmentation based technique to measure the pore opening of the stomata
   4. fit_ellipse.m	- fit an ellipse to a line segment (Copyright to: Ohad Gul)
 
-- Pre-trained Cascade Object Detector to test the code: stomateDetector_v0.xml (set training=false)
+- Pre-trained Cascade Object Detector to test the code: stomateDetector_v0.xml (to avoid training, set training=false)
+- A sample Matlab labeling Session containing ground truths: Test.mat (to enable training, set training=true)
 
 # Parameter tuning
 
