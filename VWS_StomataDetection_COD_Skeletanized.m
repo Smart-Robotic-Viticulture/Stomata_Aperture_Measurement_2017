@@ -63,7 +63,7 @@ allArea = [];
 
 tic
 
-for n = 3:imsetTest.Count
+for n = 1:imsetTest.Count
     
     disp(strcat('Processing image ID : ', num2str(n)));
     
