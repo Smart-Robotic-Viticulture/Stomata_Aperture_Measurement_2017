@@ -1,4 +1,8 @@
 # Stomata_Aperture_Measurement_2017
+
+Author: Hiranya Jayakody. April 2017.
+E-mail: hiranya.jayakody@unsw.edu.au
+
 This repository contains code written in Matlab to, 
 1. Detect stomata
 2. Measure aperture of detected stomata, 
@@ -27,10 +31,7 @@ Tested on Matlab 2016b and higher versions.
 
 Several parameters need to be tuned to achieve best possible result for a given dataset.
 
-VWS_StomataDetection_COD_Skeletanized.m
-  - areaMax, areaMin :
-  - 
-getSkeletanizedAperture.m
+(Complete description will be published soon)
 
 
 # Data preparation
