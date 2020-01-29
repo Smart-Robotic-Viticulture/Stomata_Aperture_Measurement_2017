@@ -35,7 +35,8 @@ Several parameters need to be tuned to achieve best possible result for a given 
 
 
 # Data preparation
-Details on data preparation will be discussed soon.
+
+ManualDataCollector.m - this code allows you to click on individual stomata in an image and generate a series of small cropped images containing single stoma.
 
 # Acknowledgements
 We would like to thank Wine Australia for funding the research, and South Australia Research and Development Institute (SARDI) and Australian Wine Research Institute (AWRI) for leading this research. Our acknowledgements also go to Mickey Wang for his assistance in collecting and capturing data from the field. If you use this code to generate any results, please cite the paper below.
